@@ -1,4 +1,4 @@
-숫자 1
+숫자 1일 충돌수정
 brunch two
 brunch three
 four
