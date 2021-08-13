@@ -5,4 +5,4 @@ four
 five
 six
 seven
-eight
+숫자 8
