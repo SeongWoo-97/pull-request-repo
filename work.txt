@@ -1,4 +1,4 @@
-brunch one
+한국어로 "일"
 brunch two
 brunch three
 four
