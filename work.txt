@@ -5,6 +5,4 @@ four
 five
 six
 seven
-7
-7
-1
+eight
